@@ -1,64 +1,60 @@
+# Hi there! 👋 I'm Zaw Lin Shein
+
+Passionate and dedicated front-end developer with expertise in various technologies. I enjoy building web and mobile applications, and I have experience working with a diverse tech stack.
+
+## Front end
+
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+</div>
+
+## Back end
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/express.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/php.png"/> 
+  <img src="https://img.icons8.com/fluent/48/000000/laravel.png"/> 
+</div>
+
+## Databases
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+  <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/> 
+</div>
+
+## Skills Graph
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zawlinshein&theme=onedark&hide_border=true">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=zawlinshein&theme=onedark&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawlinshein&theme=onedark&show_icons=true&hide_border=true&layout=compact"/>
+
+</div>
+
+## Projects
+
+### [Card memorization with REACT](https://zawlinshein.github.io/React-card-memorization)
+
+Just simple Card game make with REACT.
+
+###
+
+<div align="left">
+<a href="https://github.com/zawlinshein">
+  <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+</a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" height="40" alt="mongoose logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zawlinshein&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!

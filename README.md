@@ -37,18 +37,20 @@ Passionate and dedicated front-end developer with expertise in various technolog
   <img src="https://streak-stats.demolab.com?user=zawlinshein&theme=onedark&hide_border=true">
 
   <img src="https://github-readme-stats.vercel.app/api?username=zawlinshein&theme=onedark&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawlinshein&theme=onedark&show_icons=true&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawlinshein&theme=cobalt&show_icons=true&hide_border=true&layout=compact"/>
 
 </div>
 
 ## Projects
+<div align="center">
 
-### [Card memorization with REACT](https://zawlinshein.github.io/React-card-memorization)
-
-Just simple Card game make with REACT.
+  [Card memorization with REACT](https://zawlinshein.github.io/React-card-memorization)
+  
+</div>
 
 ###
 
+### Contact me 
 <div align="left">
 <a href="https://github.com/zawlinshein">
   <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
